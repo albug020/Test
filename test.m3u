@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://epg.admuspeh.my"
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" catchup="flussonic", Discovery Investigation
+http://cdn.admuspeh.my/8074/video.m3u8?token=YDoa6k3c5hgW4T2C
